@@ -1,0 +1,29 @@
+.error-text{
+  color:red;
+  font-size: 13px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.navbar {
+  background-color: #d9d9d9 !important;
+}
+
+.navbar-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 15px;
+}
+
+.nav-link {
+  font-weight: bold !important;
+}
+
+.box-login {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 20px
+}
+
+.box-login:first-child {
+  margin-right: 20px;
+}
